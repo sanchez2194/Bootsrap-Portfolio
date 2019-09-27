@@ -1,0 +1,62 @@
+#center-column {
+    background-color:white;
+    padding: 60px;
+    
+}
+
+.footer {
+    text-align: center;
+    background-color: white;
+    width: 100%;
+}
+
+#center-column-contact {
+    
+    background-color:white;
+    
+
+}
+
+.row1 {
+    float: left;
+    line-height: 80px;
+}
+
+.row2 {
+    float: left;
+    line-height: 80px;
+}
+
+.row3 {
+    float: left;
+    line-height: 80px;
+}
+
+#submit-contact {
+    background-color: rgba(27, 116, 199, 0.555);
+    padding: 15px;
+}
+
+#col-1 {
+    padding: 25px;
+}
+
+#col-2 {
+    padding: 25px;
+}
+
+#col-3 {
+    padding: 25px;
+}
+
+#col-4{
+    padding: 25px;
+}
+
+#col-5{
+    padding: 25px;
+}
+
+#col-6{
+    padding: 25px;
+}
